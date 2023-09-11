@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋我是kingmirage
 
 <!--
 **kingmirage/kingmirage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 好玩。
+## 自语遍布前进之途，不解满灌想思之池。
 
 - 🏡 状态：**大三在校生**
 - 👨‍💻 方向：**Java后端，了解前端**
-- 📝 博客：[CSDN](https://blog.csdn.net/m0_63060848) | [十二博客](http://blog.kongshier.top/)
+- 📝 博客：[CSDN](https://blog.csdn.net/m0_63060848)
 - 🙌 笔记：[笔记总结](https://www.yuque.com/kcsshier/zpovmy)
 - 📫 邮箱：**[2325822114@qq.com](mailto:2325822114@qq.com) | [YW322852@outlook.com](mailto:YW322852@outlook.com)**
 - ⚡ 爱好：**跑步，音乐，旅游**
