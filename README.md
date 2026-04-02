@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 自语遍布前进之途，不解满灌想思之池。
 
-- 🏡 状态：**大三在校生**
+- 🏡 状态：**学习中**
 - 👨‍💻 方向：**Java后端，了解前端**
 - 📝 博客：[CSDN](https://blog.csdn.net/m0_63060848)
 - 🙌 笔记：[笔记总结]()
